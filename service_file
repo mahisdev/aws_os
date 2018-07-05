@@ -1,0 +1,4 @@
+Environment=DOCKER_VERSION=8.3.4
+Environment="HAA=haa"
+Environment="TENANT=att"
+Environment="ENV=dev"
